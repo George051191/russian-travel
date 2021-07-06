@@ -1,0 +1,29 @@
+.places {
+    max-width: 984px;
+    min-width: 320px;
+    display: grid;
+    grid-template-columns: minmax(320px, 1fr);
+    grid-gap: 80px;
+}
+
+@media screen and (max-width: 768px) {
+    .places {
+        grid-gap: 73px;
+    }
+}
+
+@media screen and (max-width: 660px) {
+    .places {
+        align-content: center;
+        align-items: center;
+        justify-content: center;
+        justify-self: center;
+        grid-template-columns: 1fr;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .places {
+        grid-gap: 50px;
+    }
+}

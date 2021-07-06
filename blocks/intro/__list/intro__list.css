@@ -1,0 +1,19 @@
+.intro__list {
+    max-width: 690px;
+    font-family: 'inter';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 18px;
+    margin-top: 0;
+    margin-bottom: 0;
+    color: #FFFFFF;
+    margin-left: 0;
+    padding-left: 0;
+}
+
+@media screen and (max-width: 768px) {
+    .intro__list {
+        max-width: 720px;
+    }
+}

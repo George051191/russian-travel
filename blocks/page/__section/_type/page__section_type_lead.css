@@ -1,0 +1,25 @@
+.page__section_type_lead {
+    margin-left: 148px;
+    margin-right: 148px;
+}
+
+@media screen and (max-width: 1024px) {
+    .page__section_type_lead {
+        margin-left: 48px;
+        margin-right: 48px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .page__section_type_lead {
+        margin-right: 0;
+        margin-left: 0;
+    }
+}
+
+@media screen and (max-width: 660px) {
+    .page__section_type_lead {
+        margin-left: 0;
+        margin-right: 0;
+    }
+}

@@ -1,0 +1,18 @@
+.page__section_type_intro {
+    margin-left: 148px;
+    margin-right: 442px;
+}
+
+@media screen and (max-width: 1024px) {
+    .page__section_type_intro {
+        margin-left: 48x;
+        margin-right: 286px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .page__section_type_intro {
+        margin-left: 24px;
+        margin-right: 24px;
+    }
+}
