@@ -3,6 +3,7 @@
     grid-template-columns: minmax(288px, 460px) 1fr;
     grid-gap: 48px 40px;
     margin: 0;
+    font-family: 'inter', 'Helvetica Neue', 'Arial', sans-serif;
 }
 
 @media screen and (max-width: 1024px) {
@@ -20,12 +21,6 @@
 }
 
 @media screen and (max-width: 660px) {
-    .place {
-        grid-template-columns: 1fr;
-    }
-}
-
-@media screen and (max-width: 654px) {
     .place {
         grid-template-columns: 1fr;
         align-self: center;

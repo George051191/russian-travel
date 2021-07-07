@@ -1,26 +1,8 @@
 .cover {
     max-width: 1184px;
     min-width: 320px;
-    max-height: 740px;
     background-image: url(../../images/__background\ \(1\).png);
+    background-position: center;
     background-size: cover;
-}
-
-@media screen and(max-width: 1024px) {
-    .cover {
-        height: 640px;
-    }
-}
-
-@media screen and (max-width: 654px) {
-    .cover {
-        object-fit: contain;
-        height: 450px;
-    }
-}
-
-@media screen and (max-width: 320px) {
-    .cover {
-        height: 200px;
-    }
+    min-height: 200px;
 }

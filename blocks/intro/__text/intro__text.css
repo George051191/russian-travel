@@ -1,6 +1,6 @@
 .intro__text {
     max-width: 690px;
-    font-family: 'inter';
+    font-family: 'inter', 'Helvetica Neue', 'Arial', sans-serif;
     font-weight: 400;
     font-size: 16px;
     line-height: 163%;
@@ -14,11 +14,8 @@
         max-width: 720px;
     }
     .intro__text {
-        font-family: 'inter';
         font-style: normal;
         font-weight: 400;
-        font-size: 16px;
-        line-height: 163%;
         color: #FFFFFF;
     }
 }

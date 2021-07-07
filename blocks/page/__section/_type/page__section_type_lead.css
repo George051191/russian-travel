@@ -16,10 +16,3 @@
         margin-left: 0;
     }
 }
-
-@media screen and (max-width: 660px) {
-    .page__section_type_lead {
-        margin-left: 0;
-        margin-right: 0;
-    }
-}

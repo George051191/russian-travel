@@ -1,23 +1,6 @@
-@media screen and (max-width: 1024px) {
-    .page__section_type_cover {
-        margin-left: 0;
-        margin-right: 0;
-        height: 640px;
-    }
-}
-
-@media screen and (max-width: 768px) {
-    .page__section_type_cover {
-        height: 480px;
-        margin-left: 0;
-        margin-right: 0;
-    }
-}
-
-@media screen and (max-width: 660px) {
-    .page__section_type_cover {
-        margin-left: 0;
-        margin-right: 0;
-        height: 450px;
-    }
-}
+        @media screen and (max-width: 1024px) {
+            .page__section_type_cover {
+                margin-left: 0;
+                margin-right: 0;
+            }
+        }

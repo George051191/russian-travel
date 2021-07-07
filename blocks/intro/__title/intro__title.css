@@ -1,6 +1,6 @@
 .intro__title {
     max-width: 720px;
-    font-family: 'inter';
+    font-family: 'inter', 'Helvetica Neue', 'Arial', sans-serif;
     font-weight: 900;
     font-size: 54px;
     line-height: 58px;
@@ -19,12 +19,8 @@
 
 @media screen and (max-width: 660px) {
     .intro__title {
-        font-family: 'inter';
-        font-style: normal;
-        font-weight: 900;
         font-size: 32px;
         line-height: 35px;
-        color: #FFFFFF;
     }
 }
 
