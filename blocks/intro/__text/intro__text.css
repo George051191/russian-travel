@@ -13,11 +13,6 @@
     .intro__text {
         max-width: 720px;
     }
-    .intro__text {
-        font-style: normal;
-        font-weight: 400;
-        color: #FFFFFF;
-    }
 }
 
 @media screen and (max-width: 320px) {

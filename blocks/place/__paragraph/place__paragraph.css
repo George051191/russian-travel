@@ -12,7 +12,7 @@
     margin-bottom: 0;
 }
 
-@media screen and (max-width: 1068px) {
+@media screen and (max-width: 1132px) {
     .place__paragraph {
         font-size: 14px;
     }
@@ -26,7 +26,7 @@
 
 @media screen and (max-width: 884px) {
     .place__paragraph {
-        font-size: 15px;
+        font-size: 12px;
     }
 }
 
@@ -36,7 +36,7 @@
     }
 }
 
-@media screen and (max-width: 724px) {
+@media screen and (max-width: 688px) {
     .place__paragraph {
         font-size: 14px;
     }

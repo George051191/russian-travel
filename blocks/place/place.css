@@ -33,6 +33,5 @@
     .place {
         grid-template-columns: minmax(288px, 320px);
         grid-gap: 32px;
-        align-content: center;
     }
 }
