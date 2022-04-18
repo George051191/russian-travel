@@ -1,3 +1,6 @@
+<h1 align="center"><a  href="https://george051191.github.io/russian-travel/" target="_blank"><img src="./images/__item.png" width="100%" alt="Шапка"></a></h1>
+
+
 # Проект: Путешествие по России
 
 Проект о том как и где можно путешествовать в нашей стране. С описанием наиболее интересныхк посещению мест
