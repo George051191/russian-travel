@@ -1,6 +1,6 @@
-<h2 align="center"><a  href="https://george051191.github.io/russian-travel/" target="_blank"><img src="./images/__item.png" width="200px" alt="Шапка"></a></h2>
-<h2 align="center"><a  href="https://george051191.github.io/russian-travel/" target="_blank"><img src="./images/__item(1).png" width="200px" alt="Шапка"></a></h2>
-<h2 align="center"><a  href="https://george051191.github.io/russian-travel/" target="_blank"><img src="./images/__item(2).png" width="200px" alt="Шапка"></a></h2>
+<h2 align="center" display="inline"><a  href="https://george051191.github.io/russian-travel/" target="_blank"><img src="./images/__item.png" width="200px" alt="Шапка"></a></h2>
+<h2 align="center"  display="inline"><a  href="https://george051191.github.io/russian-travel/" target="_blank"><img src="./images/__item(1).png" width="200px" alt="Шапка"></a></h2>
+<h2 align="center"  display="inline"><a  href="https://george051191.github.io/russian-travel/" target="_blank"><img src="./images/__item(2).png" width="200px" alt="Шапка"></a></h2>
 
 # Проект: Путешествие по России
 
