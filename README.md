@@ -1,4 +1,4 @@
-<h1 align="center"><a  href="https://george051191.github.io/russian-travel/" target="_blank"><img src="./images/__item.png" width="100%" alt="Шапка"></a></h1>
+<h1 align="center"><a  href="https://george051191.github.io/russian-travel/" target="_blank"><img src="./images/__item.png" width="200px" alt="Шапка"></a></h1>
 
 
 # Проект: Путешествие по России
